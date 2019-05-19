@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="ReGOAP" t="Include">
+          <e p="ReGOAP" t="Include">
+            <e p="Core" t="Include">
+              <e p="IReGoapAction.cs" t="Include" />
+              <e p="IReGoapAgent.cs" t="Include" />
+              <e p="IReGoapAgentHelper.cs" t="Include" />
+              <e p="IReGoapGoal.cs" t="Include" />
+              <e p="IReGoapMemory.cs" t="Include" />
+              <e p="IReGoapSensor.cs" t="Include" />
+              <e p="ReGoapActionState.cs" t="Include" />
+              <e p="ReGoapState.cs" t="Include" />
+            </e>
+            <e p="Planner" t="Include">
+              <e p="AStar.cs" t="Include" />
+              <e p="FastPriorityQueue.cs" t="Include" />
+              <e p="IGoapPlanner.cs" t="Include" />
+              <e p="ReGoapNode.cs" t="Include" />
+              <e p="ReGoapPlanner.cs" t="Include" />
+              <e p="ReGoapPlannerSettings.cs" t="Include" />
+            </e>
+            <e p="Unity" t="Include">
+              <e p="Editor" t="Include">
+                <e p="ReGoapNodeBaseEditor.cs" t="Include" />
+                <e p="ReGoapNodeEditor.cs" t="Include" />
+                <e p="Test" t="Include">
+                  <e p="ReGoapBenchmarkTests.cs" t="Include" />
+                  <e p="ReGoapTests.cs" t="Include" />
+                  <e p="ReGoapTestsHelper.cs" t="Include" />
+                </e>
+              </e>
+              <e p="FSM" t="Include">
+                <e p="ISMState.cs" t="Include" />
+                <e p="SmState.cs" t="Include" />
+                <e p="StateMachine.cs" t="Include" />
+              </e>
+              <e p="FSMExample" t="Include">
+                <e p="Actions" t="Include">
+                  <e p="AddResourceToBankAction.cs" t="Include" />
+                  <e p="CraftRecipeAction.cs" t="Include" />
+                  <e p="GatherResourceAction.cs" t="Include" />
+                  <e p="GenericGoToAction.cs" t="Include" />
+                </e>
+                <e p="Agents" t="Include">
+                  <e p="BuilderAgent.cs" t="Include" />
+                </e>
+                <e p="FSM" t="Include">
+                  <e p="SmsGoTo.cs" t="Include" />
+                  <e p="SmsIdle.cs" t="Include" />
+                </e>
+                <e p="Goals" t="Include">
+                  <e p="CollectResourceGoal.cs" t="Include" />
+                </e>
+                <e p="Memories" t="Include">
+                  <e p="BuilderMemory.cs" t="Include" />
+                </e>
+                <e p="OtherScripts" t="Include">
+                  <e p="AgentsSpawner.cs" t="Include" />
+                  <e p="Bank.cs" t="Include" />
+                  <e p="BankDebugToText.cs" t="Include" />
+                  <e p="BankManager.cs" t="Include" />
+                  <e p="MultipleResourcesManager.cs" t="Include" />
+                  <e p="PrimitiveResource.cs" t="Include" />
+                  <e p="Recipe.cs" t="Include" />
+                  <e p="Resource.cs" t="Include" />
+                  <e p="ResourceManager.cs" t="Include" />
+                  <e p="ResourcesBag.cs" t="Include" />
+                  <e p="Utilities.cs" t="Include" />
+                  <e p="Workstation.cs" t="Include" />
+                  <e p="WorkstationsManager.cs" t="Include" />
+                </e>
+                <e p="Planners" t="Include">
+                  <e p="FSMExamplePlannerManager.cs" t="Include" />
+                </e>
+                <e p="Sensors" t="Include">
+                  <e p="BankSensor.cs" t="Include" />
+                  <e p="MultipleResourcesSensor.cs" t="Include" />
+                  <e p="ResourcesBagSensor.cs" t="Include" />
+                  <e p="ResourceSensor.cs" t="Include" />
+                  <e p="WorkstationSensor.cs" t="Include" />
+                </e>
+              </e>
+              <e p="ReGoapAction.cs" t="Include" />
+              <e p="ReGoapAgent.cs" t="Include" />
+              <e p="ReGoapAgentAdvanced.cs" t="Include" />
+              <e p="ReGoapGoal.cs" t="Include" />
+              <e p="ReGoapGoalAdvanced.cs" t="Include" />
+              <e p="ReGoapMemory.cs" t="Include" />
+              <e p="ReGoapMemoryAdvanced.cs" t="Include" />
+              <e p="ReGoapPlannerManager.cs" t="Include" />
+              <e p="ReGoapSensor.cs" t="Include" />
+              <e p="SimExample" t="Include">
+                <e p="ReGOAP" t="Include">
+                  <e p="SimBuilderAgent.cs" t="Include" />
+                  <e p="SimBuildGoal.cs" t="Include" />
+                  <e p="SimBuildStructureAction.cs" t="Include" />
+                  <e p="SimMemory.cs" t="Include" />
+                  <e p="SimPlanner.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Test" t="Include">
+                <e p="ReGoapTestAction.cs" t="Include" />
+                <e p="ReGoapTestAgent.cs" t="Include" />
+                <e p="ReGoapTestGoal.cs" t="Include" />
+                <e p="ReGoapTestMemory.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Utilities" t="Include">
+              <e p="ReGoapLogger.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AdvancedMemory.cs" t="Include" />
+          <e p="AnimalAgent.cs" t="Include" />
+          <e p="EatFoodAction.cs" t="Include" />
+          <e p="HappyAnimalGoal.cs" t="Include" />
+          <e p="HungerSensor.cs" t="Include" />
+          <e p="SmellSensor.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="ReGOAP.sln" t="IncludeFlat" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_ReGOAP.-1855228750.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+  </component>
+</project>

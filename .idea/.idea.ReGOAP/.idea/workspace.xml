@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24d5cacd-a372-4742-9394-4faa9097b374" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/EatFoodAction.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+              <folding>
+                <marker date="1558296059177" expanded="false" signature="6:131" ph="..." />
+                <marker date="1558296059177" expanded="true" signature="190:1311" ph="{...}" />
+                <marker date="1558296059177" expanded="true" signature="228:393" ph="{...}" />
+                <marker date="1558296059177" expanded="true" signature="680:804" ph="{...}" />
+                <marker date="1558296059177" expanded="true" signature="841:1309" ph="{...}" />
+                <marker date="1558296059177" expanded="true" signature="950:1274" ph="{...}" />
+                <marker date="1558296059177" expanded="true" signature="1049:1236" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EatFoodAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Core/IReGoapMemory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Core/ReGoapState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AnimalAgent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AdvancedMemory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/ReGoapSensor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/ReGoapAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SmellSensor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/FSMExample/OtherScripts/ResourcesBag.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/ReGoapMemory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/FSMExample/FSM/SmsGoTo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/FSMExample/Goals/CollectResourceGoal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/FSMExample/Agents/BuilderAgent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/FSMExample/Actions/GenericGoToAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/FSMExample/Actions/GatherResourceAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/ReGoapAgent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/FSMExample/Actions/AddResourceToBankAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/FSMExample/Sensors/ResourcesBagSensor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/SimExample/ReGoap/SimMemory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/FSMExample/Sensors/BankSensor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/SimExample/ReGoap/SimBuildGoal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/FSMExample/Memories/BuilderMemory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HappyAnimalGoal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/FSMExample/Planners/FSMExamplePlannerManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HungerSensor.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/BunnyAgent.cs" />
+        <option value="$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/ReGoapSensor.cs" />
+        <option value="$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/FSMExample/FSM/SmsGoTo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BunnyMemory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BunnyHungerSensor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HappyBunnyGoal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HungerSensor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FoxAgent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Advanced.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AdvancedMemory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CarrotSensor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FoxSmellSensor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HappyFoxGoal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EatCarrotAction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SmellSensor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HappyAnimalGoal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AnimalAgent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EatFoodAction.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.ReGOAP/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../GitHub" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Rainbow Brackets" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24d5cacd-a372-4742-9394-4faa9097b374" name="Default Changelist" comment="" />
+      <created>1558105360896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558105360896</updated>
+      <workItem from="1558105366135" duration="123000" />
+      <workItem from="1558105537610" duration="2835000" />
+      <workItem from="1558109553694" duration="1040000" />
+      <workItem from="1558265237792" duration="1938000" />
+      <workItem from="1558267561209" duration="1184000" />
+      <workItem from="1558294786333" duration="1088000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8208000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20940171" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Unit Tests" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Unity" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="4" />
+    </layout>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/ReGoapAgent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <marker date="1497179228000" expanded="false" signature="6:128" ph="..." />
+            <marker date="1497179228000" expanded="true" signature="152:10281" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="245:10279" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="1196:1303" ph="{...}" />
+            <marker date="1497179228000" expanded="false" signature="1313:2121" ph="UnityFunctions" />
+            <marker date="1497179228000" expanded="true" signature="1374:1600" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="1640:1769" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="1691:1759" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="1812:1833" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="1877:2102" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="1931:2092" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="2175:2864" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="2266:2770" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="2456:2549" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="2611:2756" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="2787:2854" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="2945:3112" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="3186:3852" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="3926:4764" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="4076:4287" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="4119:4249" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="4595:4686" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="4846:5296" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="5046:5232" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="5371:5498" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="5543:6622" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="5596:5684" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="5763:6037" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="5825:5987" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="6054:6612" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="6701:7162" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="6798:6990" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="7227:7494" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="7274:7452" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="7564:7987" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="7782:7924" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="8027:8075" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="8148:8201" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="8251:8441" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="8367:8431" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="8487:8543" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="8592:8660" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="8718:8775" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="8820:8898" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="8945:9089" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="9138:9249" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="9311:9440" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="9506:9554" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="9610:9657" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="9716:9768" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="9832:9904" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="9947:10027" ph="{...}" />
+            <marker date="1497179228000" expanded="true" signature="10192:10273" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/FSMExample/OtherScripts/ResourcesBag.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <marker date="1491342371000" expanded="false" signature="6:52" ph="..." />
+            <marker date="1491342371000" expanded="true" signature="100:974" ph="{...}" />
+            <marker date="1491342371000" expanded="true" signature="149:972" ph="{...}" />
+            <marker date="1491342371000" expanded="true" signature="225:302" ph="{...}" />
+            <marker date="1491342371000" expanded="true" signature="369:534" ph="{...}" />
+            <marker date="1491342371000" expanded="true" signature="589:723" ph="{...}" />
+            <marker date="1491342371000" expanded="true" signature="780:830" ph="{...}" />
+            <marker date="1491342371000" expanded="true" signature="900:966" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/ReGoapAction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <marker date="1518363225000" expanded="false" signature="6:85" ph="..." />
+            <marker date="1518363225000" expanded="true" signature="109:3767" ph="{...}" />
+            <marker date="1518363225000" expanded="true" signature="184:3765" ph="{...}" />
+            <marker date="1518363225000" expanded="false" signature="741:1105" ph="UnityFunctions" />
+            <marker date="1518363225000" expanded="true" signature="802:1025" ph="{...}" />
+            <marker date="1518363225000" expanded="true" signature="1065:1086" ph="{...}" />
+            <marker date="1518363225000" expanded="true" signature="1145:1193" ph="{...}" />
+            <marker date="1518363225000" expanded="true" signature="1273:1324" ph="{...}" />
+            <marker date="1518363225000" expanded="true" signature="1371:1416" ph="{...}" />
+            <marker date="1518363225000" expanded="true" signature="1466:1528" ph="{...}" />
+            <marker date="1518363225000" expanded="true" signature="1610:1667" ph="{...}" />
+            <marker date="1518363225000" expanded="true" signature="1764:1845" ph="{...}" />
+            <marker date="1518363225000" expanded="true" signature="1941:1995" ph="{...}" />
+            <marker date="1518363225000" expanded="true" signature="2085:2133" ph="{...}" />
+            <marker date="1518363225000" expanded="true" signature="2208:2253" ph="{...}" />
+            <marker date="1518363225000" expanded="true" signature="2344:2389" ph="{...}" />
+            <marker date="1518363225000" expanded="true" signature="2615:2881" ph="{...}" />
+            <marker date="1518363225000" expanded="true" signature="2941:3030" ph="{...}" />
+            <marker date="1518363225000" expanded="true" signature="3071:3116" ph="{...}" />
+            <marker date="1518363225000" expanded="true" signature="3159:3240" ph="{...}" />
+            <marker date="1518363225000" expanded="true" signature="3317:3759" ph="{...}" />
+            <marker date="1518363225000" expanded="true" signature="3473:3722" ph="{...}" />
+            <marker date="1518363225000" expanded="true" signature="3589:3708" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/FSMExample/FSM/SmsGoTo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <marker date="1558109429009" expanded="true" signature="82:308" ph="/* generic goto state, can be used in most games, override Tick and Enter if you are using ... */" />
+            <marker date="1558109429009" expanded="true" signature="346:6067" ph="{...}" />
+            <marker date="1558109429009" expanded="true" signature="468:6065" ph="{...}" />
+            <marker date="1558109429009" expanded="true" signature="685:760" ph="{...}" />
+            <marker date="1558109429009" expanded="true" signature="1507:1663" ph="{...}" />
+            <marker date="1558109429009" expanded="true" signature="1573:1653" ph="{...}" />
+            <marker date="1558109429009" expanded="true" signature="1818:1864" ph="{...}" />
+            <marker date="1558109429009" expanded="true" signature="1866:4216" ph="/* ##region Work ... */" />
+            <marker date="1558109429009" expanded="false" signature="4226:6059" ph="StateHandler" />
+            <marker date="1558109429009" expanded="true" signature="4307:4643" ph="{...}" />
+            <marker date="1558109429009" expanded="true" signature="4696:4831" ph="{...}" />
+            <marker date="1558109429009" expanded="true" signature="4880:5015" ph="{...}" />
+            <marker date="1558109429009" expanded="true" signature="5109:5216" ph="{...}" />
+            <marker date="1558109429009" expanded="true" signature="5312:5429" ph="{...}" />
+            <marker date="1558109429009" expanded="true" signature="5497:5674" ph="{...}" />
+            <marker date="1558109429009" expanded="true" signature="5712:5803" ph="{...}" />
+            <marker date="1558109429009" expanded="true" signature="5840:6040" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/SimExample/ReGoap/SimMemory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding>
+            <marker date="1491380530000" expanded="false" signature="6:98" ph="..." />
+            <marker date="1491380530000" expanded="true" signature="159:163" ph="{...}" />
+            <marker date="1491380530000" expanded="true" signature="185:208" ph="{...}" />
+            <marker date="1491380530000" expanded="true" signature="234:263" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Core/ReGoapState.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-234">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <marker date="1517164252000" expanded="false" signature="6:47" ph="..." />
+            <marker date="1517164252000" expanded="true" signature="70:8643" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="107:8641" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="364:528" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="578:905" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="645:895" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="764:863" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="999:1346" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="1401:1589" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="1615:1676" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="1728:2129" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="1849:2075" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="2222:2816" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="2351:2754" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="3009:3756" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="3138:3694" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="3846:4382" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="3972:4328" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="4153:4310" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="4622:5330" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="4748:5276" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="4983:5258" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="5553:6331" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="5812:6277" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="6047:6259" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="6373:6431" ph="{...}" />
+            <marker date="1517164252000" expanded="false" signature="6442:7436" ph="StateFactory" />
+            <marker date="1517164252000" expanded="true" signature="6570:6786" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="6688:6776" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="6817:6938" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="7021:7417" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="7106:7197" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="7479:7756" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="7785:7980" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="8021:8132" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="8167:8277" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="8322:8399" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="8434:8528" ph="{...}" />
+            <marker date="1517164252000" expanded="true" signature="8557:8635" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/ReGoapMemory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <marker date="1491387048000" expanded="false" signature="6:37" ph="..." />
+            <marker date="1491387048000" expanded="true" signature="61:613" ph="{...}" />
+            <marker date="1491387048000" expanded="true" signature="136:611" ph="{...}" />
+            <marker date="1491387048000" expanded="false" signature="195:501" ph="UnityFunctions" />
+            <marker date="1491387048000" expanded="true" signature="256:329" ph="{...}" />
+            <marker date="1491387048000" expanded="true" signature="373:422" ph="{...}" />
+            <marker date="1491387048000" expanded="true" signature="462:482" ph="{...}" />
+            <marker date="1491387048000" expanded="true" signature="559:605" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Core/IReGoapMemory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="34" />
+          <folding>
+            <marker date="1491342371000" expanded="true" signature="21:121" ph="{...}" />
+            <marker date="1491342371000" expanded="true" signature="64:119" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/ReGoapSensor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding>
+            <marker date="1491342372000" expanded="false" signature="6:37" ph="..." />
+            <marker date="1491342372000" expanded="true" signature="61:479" ph="{...}" />
+            <marker date="1491342372000" expanded="true" signature="136:477" ph="{...}" />
+            <marker date="1491342372000" expanded="true" signature="249:303" ph="{...}" />
+            <marker date="1491342372000" expanded="true" signature="359:406" ph="{...}" />
+            <marker date="1491342372000" expanded="true" signature="450:471" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/FSMExample/Sensors/ResourcesBagSensor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <marker date="1491342372000" expanded="true" signature="86:583" ph="{...}" />
+            <marker date="1491342372000" expanded="true" signature="155:581" ph="{...}" />
+            <marker date="1491342372000" expanded="true" signature="226:303" ph="{...}" />
+            <marker date="1491342372000" expanded="true" signature="348:575" ph="{...}" />
+            <marker date="1491342372000" expanded="true" signature="468:565" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/SimExample/ReGoap/SimBuildGoal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <folding>
+            <marker date="1491380931000" expanded="true" signature="6:98" ph="..." />
+            <marker date="1491380931000" expanded="true" signature="160:312" ph="{...}" />
+            <marker date="1491380931000" expanded="true" signature="198:310" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/FSMExample/Goals/CollectResourceGoal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <marker date="1491342372000" expanded="true" signature="39:451" ph="{...}" />
+            <marker date="1491342372000" expanded="true" signature="107:449" ph="{...}" />
+            <marker date="1491342372000" expanded="true" signature="190:300" ph="{...}" />
+            <marker date="1491342372000" expanded="true" signature="343:443" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/FSMExample/Sensors/BankSensor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <marker date="1491342372000" expanded="false" signature="6:96" ph="..." />
+            <marker date="1491342372000" expanded="true" signature="139:1112" ph="{...}" />
+            <marker date="1491342372000" expanded="true" signature="200:1110" ph="{...}" />
+            <marker date="1491342372000" expanded="true" signature="328:578" ph="{...}" />
+            <marker date="1491342372000" expanded="true" signature="485:568" ph="{...}" />
+            <marker date="1491342372000" expanded="true" signature="623:1104" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/FSMExample/Actions/GenericGoToAction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-304">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <marker date="1518358779000" expanded="false" signature="6:122" ph="..." />
+            <marker date="1518358779000" expanded="true" signature="165:3571" ph="{...}" />
+            <marker date="1518358779000" expanded="true" signature="168:570" ph="/* you could also create a generic ExternalGoToAction : GenericGoToAction ... */" />
+            <marker date="1518358779000" expanded="true" signature="676:3569" ph="{...}" />
+            <marker date="1518358779000" expanded="true" signature="691:894" ph="/* sometimes a Transform is better (moving target), sometimes you do not have one (last target position) ... */" />
+            <marker date="1518358779000" expanded="true" signature="970:1097" ph="{...}" />
+            <marker date="1518358779000" expanded="true" signature="1149:1228" ph="{...}" />
+            <marker date="1518358779000" expanded="true" signature="1367:1473" ph="{...}" />
+            <marker date="1518358779000" expanded="true" signature="1748:2069" ph="{...}" />
+            <marker date="1518358779000" expanded="true" signature="2180:2553" ph="{...}" />
+            <marker date="1518358779000" expanded="true" signature="2321:2414" ph="{...}" />
+            <marker date="1518358779000" expanded="true" signature="2431:2496" ph="{...}" />
+            <marker date="1518358779000" expanded="true" signature="2633:2839" ph="{...}" />
+            <marker date="1518358779000" expanded="true" signature="2710:2802" ph="{...}" />
+            <marker date="1518358779000" expanded="true" signature="2957:3121" ph="{...}" />
+            <marker date="1518358779000" expanded="true" signature="3287:3358" ph="{...}" />
+            <marker date="1518358779000" expanded="true" signature="3410:3462" ph="{...}" />
+            <marker date="1518358779000" expanded="true" signature="3511:3563" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/FSMExample/Actions/GatherResourceAction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <marker date="1518359166000" expanded="false" signature="6:155" ph="..." />
+            <marker date="1518359166000" expanded="true" signature="198:4928" ph="{...}" />
+            <marker date="1518359166000" expanded="true" signature="269:4926" ph="{...}" />
+            <marker date="1518359166000" expanded="true" signature="561:656" ph="{...}" />
+            <marker date="1518359166000" expanded="true" signature="755:1027" ph="{...}" />
+            <marker date="1518359166000" expanded="true" signature="821:992" ph="{...}" />
+            <marker date="1518359166000" expanded="true" signature="891:978" ph="{...}" />
+            <marker date="1518359166000" expanded="true" signature="1144:1791" ph="{...}" />
+            <marker date="1518359166000" expanded="true" signature="1324:1747" ph="{...}" />
+            <marker date="1518359166000" expanded="true" signature="1506:1733" ph="{...}" />
+            <marker date="1518359166000" expanded="true" signature="1902:2424" ph="{...}" />
+            <marker date="1518359166000" expanded="true" signature="2076:2386" ph="{...}" />
+            <marker date="1518359166000" expanded="true" signature="2258:2372" ph="{...}" />
+            <marker date="1518359166000" expanded="true" signature="2542:3324" ph="{...}" />
+            <marker date="1518359166000" expanded="true" signature="2717:3254" ph="{...}" />
+            <marker date="1518359166000" expanded="true" signature="2899:3240" ph="{...}" />
+            <marker date="1518359166000" expanded="true" signature="3426:3522" ph="{...}" />
+            <marker date="1518359166000" expanded="true" signature="3797:4293" ph="{...}" />
+            <marker date="1518359166000" expanded="true" signature="4196:4283" ph="{...}" />
+            <marker date="1518359166000" expanded="true" signature="4326:4920" ph="{...}" />
+            <marker date="1518359166000" expanded="true" signature="4416:4504" ph="{...}" />
+            <marker date="1518359166000" expanded="true" signature="4548:4910" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/FSMExample/Actions/AddResourceToBankAction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <marker date="1518357825000" expanded="false" signature="6:131" ph="..." />
+            <marker date="1518357825000" expanded="true" signature="174:3180" ph="{...}" />
+            <marker date="1518357825000" expanded="true" signature="293:3178" ph="{...}" />
+            <marker date="1518357825000" expanded="true" signature="383:486" ph="{...}" />
+            <marker date="1518357825000" expanded="true" signature="604:1048" ph="{...}" />
+            <marker date="1518357825000" expanded="true" signature="710:990" ph="{...}" />
+            <marker date="1518357825000" expanded="true" signature="786:976" ph="{...}" />
+            <marker date="1518357825000" expanded="true" signature="1159:1595" ph="{...}" />
+            <marker date="1518357825000" expanded="true" signature="1265:1556" ph="{...}" />
+            <marker date="1518357825000" expanded="true" signature="1341:1542" ph="{...}" />
+            <marker date="1518357825000" expanded="true" signature="1712:2327" ph="{...}" />
+            <marker date="1518357825000" expanded="true" signature="1991:2282" ph="{...}" />
+            <marker date="1518357825000" expanded="true" signature="2067:2268" ph="{...}" />
+            <marker date="1518357825000" expanded="true" signature="2603:3048" ph="{...}" />
+            <marker date="1518357825000" expanded="true" signature="2909:2965" ph="{...}" />
+            <marker date="1518357825000" expanded="true" signature="2982:3038" ph="{...}" />
+            <marker date="1518357825000" expanded="true" signature="3091:3172" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/FSMExample/Agents/BuilderAgent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <marker date="1491387980000" expanded="true" signature="40:124" ph="{...}" />
+            <marker date="1491387980000" expanded="true" signature="110:122" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/FSMExample/Memories/BuilderMemory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <marker date="1491387743000" expanded="true" signature="42:128" ph="{...}" />
+            <marker date="1491387743000" expanded="true" signature="114:126" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ReGoap/ReGoap/Unity/FSMExample/Planners/FSMExamplePlannerManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1491342372000" expanded="true" signature="42:139" ph="{...}" />
+            <marker date="1491342372000" expanded="true" signature="125:137" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AdvancedMemory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <marker date="1558267592039" expanded="false" signature="6:98" ph="..." />
+            <marker date="1558267592039" expanded="true" signature="166:170" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CarrotSensor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FoxAgent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HappyFoxGoal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HappyAnimalGoal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding>
+            <marker date="1558295255528" expanded="false" signature="6:98" ph="..." />
+            <marker date="1558295255528" expanded="true" signature="165:276" ph="{...}" />
+            <marker date="1558295255528" expanded="true" signature="203:274" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HungerSensor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <marker date="1558266929527" expanded="false" signature="6:112" ph="..." />
+            <marker date="1558266929527" expanded="true" signature="170:460" ph="{...}" />
+            <marker date="1558266929527" expanded="true" signature="247:369" ph="{...}" />
+            <marker date="1558266929527" expanded="true" signature="401:458" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SmellSensor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+          <folding>
+            <marker date="1558295216691" expanded="false" signature="6:117" ph="..." />
+            <marker date="1558295216691" expanded="true" signature="174:902" ph="{...}" />
+            <marker date="1558295216691" expanded="true" signature="339:396" ph="{...}" />
+            <marker date="1558295216691" expanded="true" signature="437:664" ph="{...}" />
+            <marker date="1558295216691" expanded="true" signature="697:900" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AnimalAgent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <marker date="1558295324285" expanded="false" signature="6:98" ph="..." />
+            <marker date="1558295324285" expanded="true" signature="154:158" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EatFoodAction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <marker date="1558296059177" expanded="false" signature="6:131" ph="..." />
+            <marker date="1558296059177" expanded="true" signature="190:1311" ph="{...}" />
+            <marker date="1558296059177" expanded="true" signature="228:393" ph="{...}" />
+            <marker date="1558296059177" expanded="true" signature="680:804" ph="{...}" />
+            <marker date="1558296059177" expanded="true" signature="841:1309" ph="{...}" />
+            <marker date="1558296059177" expanded="true" signature="950:1274" ph="{...}" />
+            <marker date="1558296059177" expanded="true" signature="1049:1236" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
